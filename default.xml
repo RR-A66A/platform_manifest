@@ -22,7 +22,7 @@
 	   revision="marshmallow" />
 
   <remote  name="rr-mtk"
-	   fetch="https://github.com/ResurrectionRemix-mtk"
+	   fetch="https://github.com/RR-A66A"
 	   revision="marshmallow" />
 
   <remote name="rr-d"
